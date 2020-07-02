@@ -1,6 +1,6 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 <h1 align="center">
-  🚀 Fundamentos reactjs 🚀
+  🚀 Fundamentos reactjs GitHub explorer 🚀
   <p align="center">
   <img src="https://img.shields.io/badge/tech-front--end-green" />
 
