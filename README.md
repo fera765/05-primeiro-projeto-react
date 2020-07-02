@@ -16,7 +16,7 @@
 <p>
   Fala DEVs esse é um front-end onde consumimos a api do github..
 
-  <img src="" />
+  <img src="https://raw.githubusercontent.com/fera765/05-primeiro-projeto-react/master/images/app.png" />
 </p>
 
 <h2 align="center">
